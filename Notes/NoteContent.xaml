@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="Notes.NoteEntryPage">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Uložit"
+                     Clicked="OnSaveButtonClicked"/>
+        <ToolbarItem Text="Smazat"
+                     Clicked="OnDeleteButtonClicked"/>
+    </ContentPage.ToolbarItems>
+    <StackLayout Margin="5"
+                 Orientation="Vertical"
+                 HorizontalOptions="Fill">
+        <Editor Placeholder="Název"
+                Text="{Binding Header}"
+                HeightRequest="100"/>
+        <Editor Placeholder="Obsah"
+                Text="{Binding Text}"
+                FontSize="Micro"
+                VerticalOptions="FillAndExpand"/>
+    </StackLayout>
+</ContentPage>

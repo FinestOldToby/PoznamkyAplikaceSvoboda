@@ -1,0 +1,13 @@
+C:\Users\Luciferus\PoznamkyAplikaceSvoboda\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+C:\Users\Luciferus\PoznamkyAplikaceSvoboda\Notes\bin\Debug\netstandard2.0\Notes.dll
+C:\Users\Luciferus\PoznamkyAplikaceSvoboda\Notes\bin\Debug\netstandard2.0\Notes.pdb
+C:\Users\Luciferus\PoznamkyAplikaceSvoboda\Notes\obj\Debug\netstandard2.0\Notes.csprojAssemblyReference.cache
+C:\Users\Luciferus\PoznamkyAplikaceSvoboda\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Luciferus\PoznamkyAplikaceSvoboda\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+C:\Users\Luciferus\PoznamkyAplikaceSvoboda\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+C:\Users\Luciferus\PoznamkyAplikaceSvoboda\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+C:\Users\Luciferus\PoznamkyAplikaceSvoboda\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Luciferus\PoznamkyAplikaceSvoboda\Notes\obj\Debug\netstandard2.0\Notes.dll
+C:\Users\Luciferus\PoznamkyAplikaceSvoboda\Notes\obj\Debug\netstandard2.0\Notes.pdb
+C:\Users\Luciferus\PoznamkyAplikaceSvoboda\Notes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Luciferus\PoznamkyAplikaceSvoboda\Notes\obj\Debug\netstandard2.0\NoteContent.xaml.g.cs
